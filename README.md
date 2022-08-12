@@ -1,5 +1,4 @@
-# SwitchThemes
-Pequeno exemplo de troca de temas acionados por botões.<br/>
+# Exemplo de troca de temas com HTML5, CSS e JavaScript.
 
-![Preview](./preview.print1.jpg)
-![Preview](./preview.print2.jpg)
+<img src="https://github.com/miguelvent/SwitchThemes/blob/main/print1.JPG">
+<img src="https://github.com/miguelvent/SwitchThemes/blob/main/print2.JPG">
